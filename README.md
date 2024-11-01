@@ -8,9 +8,9 @@ Desenvolver um aplicativo mobile baseado em uma das ideias listadas abaixo e red
 - O artigo científico contará como **50%** da nota.
 
 ## Estrutura do Artigo Científico Resumido
-O artigo deve ser escrito utilizando a ferramenta LaTeX, com o modelo disponibilizado aqui via Overleaf: [Acesse o modelo]([https://www.overleaf.com](https://pt.overleaf.com/read/mxtxfngzdtdg#20d91b)).
-
-Além disso, o artigo deve conter os seguintes elementos:
+ [Acesse o modelo](https://pt.overleaf.com/read/mxtxfngzdtdg#20d91b)
+ 
+O artigo deve ser escrito utilizando a ferramenta LaTeX, com o modelo disponibilizado via Overleaf. Além disso, o artigo deve conter os seguintes elementos:
 
 ### Título
 Deve ser claro e informativo sobre o projeto.
